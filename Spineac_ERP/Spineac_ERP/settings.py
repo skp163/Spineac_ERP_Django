@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     #Own_Apps
-    "users.aaps.UsersConfig",
+    "users.apps.UsersConfig",
     "crispy_forms",
 ]
 
